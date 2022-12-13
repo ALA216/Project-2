@@ -30,9 +30,13 @@ These equations can be used to model the spread of an infectious disease in a po
 
 ## Data
 Data is obtained from Italy most affected region Lombordia.
+
  ![image](https://user-images.githubusercontent.com/112144648/207378491-0213e920-4b98-4c10-9c20-ff6e786e3713.png)
+ 
 ![image](https://user-images.githubusercontent.com/112144648/207378564-988999a6-3264-4510-96f6-452e5ef7369d.png)
+
 ![image](https://user-images.githubusercontent.com/112144648/207378619-aaa602fe-84db-4f98-aa8f-df8d605f88ce.png)
+
 Figure 1 shows the study effect of death rate, disease rate/infection rate over the population with passage of time.
 
 ## Sensitivity Analysis
