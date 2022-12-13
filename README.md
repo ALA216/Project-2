@@ -37,7 +37,7 @@ Data is obtained from Italy most affected region Lombordia.
 
 ![image](https://user-images.githubusercontent.com/112144648/207378619-aaa602fe-84db-4f98-aa8f-df8d605f88ce.png)
 
-Figure 1 shows the study effect of death rate, disease rate/infection rate over the population with passage of time.
+Figure 3 shows the study effect of death rate, disease rate/infection rate over the population with passage of time.
 
 ## Sensitivity Analysis
 In order to analyze the sensitivity of a system to changes in its parameters, we can perturb the parameters multiple times over a broad range of values. It is important to choose a range that is meaningful for the specific system and question we are trying to answer.
